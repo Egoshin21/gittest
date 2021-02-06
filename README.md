@@ -1,4 +1,4 @@
-Егошин Антон 
+
 $ git init
 Reinitialized existing Git repository in C:/Users/User/Desktop/github/.git/
 
