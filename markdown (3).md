@@ -7,7 +7,8 @@ Reinitialized existing Git repository in C:/Users/User/Desktop/github/.git/
 User@DESKTOP-JDRRE4T MINGW64 ~/Desktop/github (master)
 
  
-git status
+git 
+
 On branch master
 No commits yet
 Untracked files: (use "git add ..." to include in what will be committed) index.html
