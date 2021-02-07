@@ -3,7 +3,7 @@
  Выполнил: Егошин Антон И-21
 
 
-git init
+==git init==
  
 Reinitialized existing Git repository in C:/Users/User/Desktop/github/.git/
 User@DESKTOP-JDRRE4T MINGW64 ~/Desktop/github (master)
