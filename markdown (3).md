@@ -7,7 +7,7 @@ Reinitialized existing Git repository in C:/Users/User/Desktop/github/.git/
 User@DESKTOP-JDRRE4T MINGW64 ~/Desktop/github (master)
 
  
-git 
+git status
 
 On branch master
 No commits yet
